@@ -1,2 +1,2 @@
-teste para a disciplina de adms
+teste para a disciplina de adms.
 adms é dificil
